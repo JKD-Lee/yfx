@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cyber on MXR-Lee</title>
-    <link>/tags/cyber/</link>
+    <link>https://mxr-lee.top/yfx/tags/cyber/</link>
     <description>Recent content in Cyber on MXR-Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
     <copyright>MXR</copyright>
-    <lastBuildDate>Mon, 27 Mar 2023 20:00:00 +0800</lastBuildDate><atom:link href="/tags/cyber/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Mar 2023 20:00:00 +0800</lastBuildDate><atom:link href="https://mxr-lee.top/yfx/tags/cyber/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Huawei Watch Cyber</title>
-      <link>/posts/2023-3-30/</link>
+      <link>https://mxr-lee.top/yfx/posts/2023-3-30/</link>
       <pubDate>Mon, 27 Mar 2023 20:00:00 +0800</pubDate>
       
-      <guid>/posts/2023-3-30/</guid>
+      <guid>https://mxr-lee.top/yfx/posts/2023-3-30/</guid>
       <description>Huawei Watch Cyber快速上手 Huawei Watch Cyber 1.下载APP 可以去手机商店搜索华为运动健康APP下载，也可用手机扫描下方二维码下载APP，或者直接点击此下载链</description>
     </item>
     
