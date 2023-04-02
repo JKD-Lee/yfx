@@ -9,25 +9,16 @@
     <copyright>MXR</copyright>
     <lastBuildDate>Mon, 27 Mar 2023 20:00:00 +0800</lastBuildDate><atom:link href="https://mxr-lee.top/yfx/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Huawei Watch Cyber</title>
+      <title>Huawei Watch GT Cyber</title>
       <link>https://mxr-lee.top/yfx/posts/2023-3-30/</link>
       <pubDate>Mon, 27 Mar 2023 20:00:00 +0800</pubDate>
       
       <guid>https://mxr-lee.top/yfx/posts/2023-3-30/</guid>
-      <description>Huawei Watch Cyber快速上手 Huawei Watch Cyber 1.下载APP 可以去手机商店搜索华为运动健康APP下载，也可用手机扫描下方二维码下载APP，或者直接点击此下载链</description>
+      <description>Huawei Watch GT Cyber快速上手 Huawei Watch Cyber 1.下载APP 可以去手机商店搜索华为运动健康APP下载，也可用手机扫描下方二维码下载APP，或者直接点击此下载</description>
     </item>
     
     <item>
-      <title>AI图像修复</title>
-      <link>https://mxr-lee.top/yfx/posts/2023-3-26/</link>
-      <pubDate>Sun, 26 Mar 2023 20:00:00 +0800</pubDate>
-      
-      <guid>https://mxr-lee.top/yfx/posts/2023-3-26/</guid>
-      <description>Topaz Photo AI 图像修复 最近国外的AI大爆炸，版本迭代频繁，进化的都快冒烟了，各大厂纷纷也发布各自的AI工具，基于开源Open AI 的Chatgpt擅长文</description>
-    </item>
-    
-    <item>
-      <title>给 靳老师 的一封信</title>
+      <title>致 靳老师</title>
       <link>https://mxr-lee.top/yfx/posts/2023-3-22/</link>
       <pubDate>Wed, 22 Mar 2023 20:00:00 +0800</pubDate>
       
@@ -41,7 +32,7 @@
       <pubDate>Tue, 21 Mar 2023 20:00:00 +0800</pubDate>
       
       <guid>https://mxr-lee.top/yfx/posts/2023-3-21/</guid>
-      <description>匆匆一别十三载 h 转眼毕业十几年了，上学的时候没能意识到外文的重要性，以至于这么多年的英文水平还停留在当年那个阶段，说来真是惭愧，直到后来自己</description>
+      <description>致 何老师 h 毕业多年，我也是最近听说，现在您还是有会被学生气到的情况。记得您当年还和我们讲过学生因为捣乱，仅穿个内裤在宿舍外罚站的趣事，现在一</description>
     </item>
     
     <item>
@@ -50,17 +41,7 @@
       <pubDate>Mon, 20 Mar 2023 20:00:00 +0800</pubDate>
       
       <guid>https://mxr-lee.top/yfx/posts/2023-3-20/</guid>
-      <description>匆匆一别十三载 w 时间过得真快，当年匆匆一别，到如今已有十三年，期间便再也没有听到关于您的消息。 终于在今年的3月12日，一个偶然机会，得知您还</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Example</title>
-      <link>https://mxr-lee.top/yfx/posts/mark-down-syntax/</link>
-      <pubDate>Mon, 20 Mar 2023 13:06:38 +0800</pubDate>
-      
-      <guid>https://mxr-lee.top/yfx/posts/mark-down-syntax/</guid>
-      <description>Headings # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 H1 H2 H3 H4 H5 H6 Image Image - Wide ![Image Wide|wide](https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg) Image - Big ![Image Big|big](https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg) Image - Inline ![Image Inline|inline](https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg) Image Wide Image Big Image Inline Block Quotes &amp;gt; You are young and life is long - Pink Floyd You are young and life is long - Pink Floyd
-Code Blocks ```javascript function say() { const greeting = &amp;#34;I&amp;#39;ll see you on the dark side of the moon&amp;#34;; console.</description>
+      <description>致 魏老师 w 时间过得真快，当年匆匆一别，到如今已有十三年，期间便再也没有听到关于您的消息。 终于在今年的3月12日，一个偶然机会，得知您还在本校</description>
     </item>
     
     <item>
@@ -69,43 +50,7 @@ Code Blocks ```javascript function say() { const greeting = &amp;#34;I&amp;#39;l
       <pubDate>Sun, 12 Mar 2023 20:00:00 +0800</pubDate>
       
       <guid>https://mxr-lee.top/yfx/posts/2023-3-12/</guid>
-      <description>不知不觉，已经快断更三年了，今天我回啦了 之前的主题年久失修，以后可能会修一下，现在用新的iTheme主题，这次不魔改了 之前魔改的casper</description>
-    </item>
-    
-    <item>
-      <title>Apple 推出新款 HomePod，带来突破性音质与智能体验</title>
-      <link>https://mxr-lee.top/yfx/posts/apple-introduces-the-new-homepod-with-breakthrough-sound-and-intelligence/</link>
-      <pubDate>Mon, 27 Feb 2023 13:06:38 +0800</pubDate>
-      
-      <guid>https://mxr-lee.top/yfx/posts/apple-introduces-the-new-homepod-with-breakthrough-sound-and-intelligence/</guid>
-      <description>HomePod 汇集了多项 Apple 创新技术、Siri 智能和智能家居功能，为用户带来前所未有的聆听体验。 加利福尼亚州，库比提诺Apple 今日宣布推出 HomePod</description>
-    </item>
-    
-    <item>
-      <title>2023年VR游戏周即将到来！</title>
-      <link>https://mxr-lee.top/yfx/posts/vr-games-week-2023-starts-next-week/</link>
-      <pubDate>Tue, 27 Dec 2022 13:06:38 +0800</pubDate>
-      
-      <guid>https://mxr-lee.top/yfx/posts/vr-games-week-2023-starts-next-week/</guid>
-      <description>PlayStation VR2即将于下周发布。为表庆祝，我们准备介绍数部即将登陆此平台的虚幻引擎VR游戏，以及一些准备登陆Meta Quest、PCVR等平台的虚幻</description>
-    </item>
-    
-    <item>
-      <title>毕业第一年：从学生向3D美术师的转变</title>
-      <link>https://mxr-lee.top/yfx/posts/the-first-year-out-moving-from-student-to-3d-artist/</link>
-      <pubDate>Wed, 07 Dec 2022 13:06:38 +0800</pubDate>
-      
-      <guid>https://mxr-lee.top/yfx/posts/the-first-year-out-moving-from-student-to-3d-artist/</guid>
-      <description>我们都知道，无论哪个领域，离开学校进入职场的感觉有多么令人生畏。你具备合适的技能吗？你学到的技术能在你获得的工作中发挥作用吗？这足以让你夜不</description>
-    </item>
-    
-    <item>
-      <title>虚幻引擎5.1带来电影、广播、动画和实况活动新功能</title>
-      <link>https://mxr-lee.top/yfx/posts/unreal-engine-5-1-delivers-new-features-for-filmmaking-broadcast-animation-and-live-events/</link>
-      <pubDate>Sat, 12 Nov 2022 13:06:38 +0800</pubDate>
-      
-      <guid>https://mxr-lee.top/yfx/posts/unreal-engine-5-1-delivers-new-features-for-filmmaking-broadcast-animation-and-live-events/</guid>
-      <description>随着虚幻引擎5.1的发布，它所带来的改进将使所有行业的创作者受益。在这篇博文中，我们将特别关注真人与动画影视内容（包括虚拟制片和LED舞台项</description>
+      <description>不知不觉，网站断更已经快三年了，期间想过恢复更新，但大多由于心情和时间问题，一直在搁置，不过今天这个日子比较特殊，值得纪念，那么就从今天开始</description>
     </item>
     
     <item>
