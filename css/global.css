@@ -5923,8 +5923,7 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
 }
 
 .image-description .image-caption {
-  flex-grow: 1;
-  text-align: center
+  flex-grow: 1
 }
 
 .body-copy-wide .image-description {
