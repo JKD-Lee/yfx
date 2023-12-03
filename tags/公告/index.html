@@ -7,15 +7,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" href="/yfx/img/favicon.ico">
 
-    <meta name="keyword" content="">
+    <meta name="keyword" content=""><meta property="og:title" content="公告" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://mxr-lee.top/yfx/tags/%E5%85%AC%E5%91%8A/" />
 
-    <title>公告</title>
+<title>公告</title>
 
     <link rel="canonical" href="/yfx/tags/%E5%85%AC%E5%91%8A/">
 
     <link rel="stylesheet" href="/yfx/css/global.css">
 
     <link rel="stylesheet" href="/yfx/css/custom.css">
+
+    <link rel="stylesheet" href="/yfx/css/search.css" />
+
+    
+    
+
+    
+    
+
 </head>
   </head>
   <body class=" page-landing   ">
@@ -28,18 +40,39 @@
         <div class="nav-menu">
           <div class="nav-item-wrapper">
             <a href="/yfx/posts " class="nav-item-content">目录</a>
-          </div>
-          <div class="nav-item-wrapper">
+          </div><div class="nav-item-wrapper">
             <a href="/yfx/about" class="nav-item-content">关于</a>
-          </div>
-          <div class="nav-item-wrapper">
-            <a href="https://mxr-lee.top/zyzx/" class="nav-item-content" target="_blank">图库</a>
-          </div>
-        </div>
+          </div><div class="nav-item-wrapper">
+            <a href="/yfx/index.xml" class="nav-item-content" target="_blank">图库</a>
+          </div></div>
       </div>
     </div>
   </div>
 </nav>
+
+<script>
+  function toggleSearchModal(){
+    const template = `
+    <div class="modal-body">
+      <div id="autocomplete" onclick="event.stopPropagation();"></div>
+    </div>
+    `
+    const modal = document.querySelector("#modal-wrapper")
+    if(!modal){
+      const div = document.createElement("div")
+      document.body.setAttribute("style","overflow: hidden;")
+      div.setAttribute("id", "modal-wrapper")
+      div.setAttribute("onclick", "toggleSearchModal()")
+      div.innerHTML = template
+      const script = document.createElement("script");script.setAttribute("src", "https://mxr-lee.top/yfx/js/algolia.js")
+      div.appendChild(script)
+      document.body.append(div)
+    } else {
+      document.body.removeAttribute("style")
+      document.body.removeChild(modal)
+    }
+  }
+</script>
     </header>
     
 <div class="results">
@@ -50,8 +83,29 @@
           
 
     
+<a href="https://mxr-lee.top/yfx/posts/2023-11-27/" class="result__item row-anchor" aria-label="I will leave.">
+    <picture class="viewport-picture">
+        <source media="(max-width: 734px)" srcset="https://img.picgo.net/2023/11/28/823544b74ecc489cb9f7e869c8add21f254622e713ce14dea5a4b4.jpeg">
+        <img class="viewport-image" src="https://img.picgo.net/2023/11/28/823544b74ecc489cb9f7e869c8add21f254622e713ce14dea5a4b4.jpeg" srcset="https://img.picgo.net/2023/11/28/823544b74ecc489cb9f7e869c8add21f254622e713ce14dea5a4b4.jpeg" aria-hidden="true" alt="">
+    </picture>
+    <div class="item__content">
+        <p class="item__category category_update">
+            
+                
+                公告
+                
+            
+        </p>
+        <h3 class="item__headline">
+            I will leave.
+        </h3>
+            <p class="item__date">2023年12月3日</p>
+    </div>
+</a>
+          
+          
 
-
+    
 <a href="https://mxr-lee.top/yfx/posts/2023-4-17/" class="result__item row-anchor" aria-label="内容已删除">
     <picture class="viewport-picture">
         <source media="(max-width: 734px)" srcset="https://p0.meituan.net/dpgroup/6ad71a90b331d3dafebc11219782845b627896.jpg">
@@ -75,8 +129,6 @@
           
 
     
-
-
 <a href="https://mxr-lee.top/yfx/posts/2023-3-12/" class="result__item row-anchor" aria-label="I am Back">
     <picture class="viewport-picture">
         <source media="(max-width: 734px)" srcset="https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg">
@@ -137,5 +189,11 @@
     </div>
   </div>
 </div>
+
   </body>
+    
+    
+
+    
+    
 </html>

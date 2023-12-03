@@ -3,7 +3,6 @@
   var params_default = { baseURL: "https://mxr-lee.top/yfx/" };
 
   // <stdin>
-  console.log("\u{1F680} ~ file: initPost.js:2 ~ params:", params_default);
   var scriptMd5 = document.createElement("script");
   scriptMd5.src = `${params_default.baseURL}js/md5.js`;
   document.head.appendChild(scriptMd5);

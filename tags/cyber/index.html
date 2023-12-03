@@ -7,15 +7,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" href="/yfx/img/favicon.ico">
 
-    <meta name="keyword" content="">
+    <meta name="keyword" content=""><meta property="og:title" content="Cyber" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://mxr-lee.top/yfx/tags/cyber/" />
 
-    <title>Cyber</title>
+<title>Cyber</title>
 
     <link rel="canonical" href="/yfx/tags/cyber/">
 
     <link rel="stylesheet" href="/yfx/css/global.css">
 
     <link rel="stylesheet" href="/yfx/css/custom.css">
+
+    <link rel="stylesheet" href="/yfx/css/search.css" />
+
+    
+    
+
+    
+    
+
 </head>
   </head>
   <body class=" page-landing   ">
@@ -28,18 +40,39 @@
         <div class="nav-menu">
           <div class="nav-item-wrapper">
             <a href="/yfx/posts " class="nav-item-content">目录</a>
-          </div>
-          <div class="nav-item-wrapper">
+          </div><div class="nav-item-wrapper">
             <a href="/yfx/about" class="nav-item-content">关于</a>
-          </div>
-          <div class="nav-item-wrapper">
-            <a href="https://mxr-lee.top/zyzx/" class="nav-item-content" target="_blank">图库</a>
-          </div>
-        </div>
+          </div><div class="nav-item-wrapper">
+            <a href="/yfx/index.xml" class="nav-item-content" target="_blank">图库</a>
+          </div></div>
       </div>
     </div>
   </div>
 </nav>
+
+<script>
+  function toggleSearchModal(){
+    const template = `
+    <div class="modal-body">
+      <div id="autocomplete" onclick="event.stopPropagation();"></div>
+    </div>
+    `
+    const modal = document.querySelector("#modal-wrapper")
+    if(!modal){
+      const div = document.createElement("div")
+      document.body.setAttribute("style","overflow: hidden;")
+      div.setAttribute("id", "modal-wrapper")
+      div.setAttribute("onclick", "toggleSearchModal()")
+      div.innerHTML = template
+      const script = document.createElement("script");script.setAttribute("src", "https://mxr-lee.top/yfx/js/algolia.js")
+      div.appendChild(script)
+      document.body.append(div)
+    } else {
+      document.body.removeAttribute("style")
+      document.body.removeChild(modal)
+    }
+  }
+</script>
     </header>
     
 <div class="results">
@@ -50,9 +83,7 @@
           
 
     
-
-
-<a href="https://mxr-lee.top/yfx/posts/2023-3-30-%E5%89%AF%E6%9C%AC/" class="result__item row-anchor" aria-label="Huawei Watch GT Cyber">
+<a href="https://mxr-lee.top/yfx/posts/2023-3-30/" class="result__item row-anchor" aria-label="Huawei Watch GT Cyber">
     <picture class="viewport-picture">
         <source media="(max-width: 734px)" srcset="https://img.picgo.net/2023/03/27/restged5cc208d3010fe4.jpeg">
         <img class="viewport-image" src="https://img.picgo.net/2023/03/27/restged5cc208d3010fe4.jpeg" srcset="https://img.picgo.net/2023/03/27/restged5cc208d3010fe4.jpeg" aria-hidden="true" alt="">
@@ -112,5 +143,11 @@
     </div>
   </div>
 </div>
+
   </body>
+    
+    
+
+    
+    
 </html>
